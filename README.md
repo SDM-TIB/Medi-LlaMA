@@ -10,4 +10,4 @@ A Hybrid AI system that integrates LlaMA, knowledge graphs, and symbolic reasoni
 
 # Proposed Approach
 
-![Baselines](demo/Medi-LlaMA.png)
+![Proposed Approach](demo/Medi-LlaMA.png)
