@@ -5,4 +5,4 @@ A Hybrid AI system that integrates LlaMA, knowledge graphs, and symbolic reasoni
 
 # Existing Approaches
 
-![Alt text for the image](demo/Mochup_ChatDoctor.pdf)
+![Alt text for the image](demo/baselines.png)
