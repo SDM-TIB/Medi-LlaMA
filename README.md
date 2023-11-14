@@ -5,4 +5,9 @@ A Hybrid AI system that integrates LlaMA, knowledge graphs, and symbolic reasoni
 
 # Existing Approaches
 
-![Alt text for the image](demo/baselines.png)
+![Baselines](demo/baselines.png)
+
+
+# Proposed Approach
+
+![Baselines](demo/Medi-LlaMA.png)
