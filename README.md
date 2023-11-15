@@ -49,7 +49,7 @@ The Medi-LlaMA project is planned to be developed in two years. The plan is two 
 There is an overlap between the last quarter of year 1, and first quarter the year 2.
 
 <p align="center">
-  <img src="demo/ProjectTiming.png" alt="Timeline" width="300">
+  <img src="demo/ProjectTiming.png" alt="Timeline" width="800">
 </p>
 
 # The Medi-LlaMA Evaluation
