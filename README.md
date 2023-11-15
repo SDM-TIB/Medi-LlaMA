@@ -62,4 +62,4 @@ Medi-LlaMA will be tested in:
 +  Universidad Politécnica de Madrid, Spain ([Medal team at UPM](https://medal.ctb.upm.es/))
 +  L3S Research Centre at the Leibniz University of Hannover (LUH), Germany ([Scientific Data Management group at LUH](https://www.idas.uni-hannover.de/de/sdm))
 +  Ramón y Cajal Institute of Health Research, Spain ([IRYCIS](https://eatris.eu/institutes/instituto-ramon-y-cajal-irycis/)) 
-+  Universidad del Valle, Colombia [UniValle](https://www.univalle.edu.co/)) 
++  Universidad del Valle, Colombia ([UniValle](https://www.univalle.edu.co/)) 
