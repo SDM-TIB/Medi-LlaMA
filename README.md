@@ -25,4 +25,4 @@ The approach retrieves the DDIs in the input treatment from the Medi-LlaMA Knowl
 
 # The Medi-LlaMA Architecture
 
-![Architecture](demo/Medi-LlaMA.png)
+\t ![Architecture](demo/Medi-LlaMA.png)
