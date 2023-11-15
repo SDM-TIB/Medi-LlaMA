@@ -25,9 +25,5 @@ The approach retrieves the DDIs in the input treatment from the Medi-LlaMA Knowl
 
 # The Medi-LlaMA Architecture
 
-\t ![Architecture](demo/Medi-LlaMA.png)
-
-<p align="center">
-  <img src="[URL_OF_YOUR_IMAGE](https://github.com/SDM-TIB/Medi-LlaMA/blob/main/demo/Medi-LlaMA.png)https://github.com/SDM-TIB/Medi-LlaMA/blob/main/demo/Medi-LlaMA.png" alt="Description of image">
-</p>
+![Architecture](demo/Medi-LlaMA.png)
 
