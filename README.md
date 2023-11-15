@@ -18,8 +18,11 @@ The accompanying figure illustrates that ChatDoctor successfully identifies four
 ![Baselines](demo/baselines.png)
 
 
-# Proposed Approach
+# Proposed Approach Medi-LlaMA
 We propose a domain-agnostic approach that can empower the predictive capacity of sub-symbolic systems with a deductive database system.
 The approach retrieves the DDIs in the input treatment from the Medi-LlaMA Knowledge Graph (Medi-LlaMA KG). Next, the Deductive System (DS) is called, where the DDIs extracted from the Medi-LlaMA KG are part of the Extensional Database (EDB). The Intensional Database (IDB) of the DS comprises a set of rules to deduce new DDIs in treatments. A DDI is deduced when a set of drugs are taken together and is represented as a relation in the minimal model of the deductive database DS.
 ![Proposed Approach](demo/mochup_DDIs.png)
- 
+
+# Medi-LlaMA Architecture
+
+
