@@ -60,7 +60,7 @@ Medi-LlaMA will be tested in:
 
 # The Medi-LlaMA Team 
 **Leibniz University of Hannover (LUH), Germany** ([Scientific Data Management group at LUH](https://www.idas.uni-hannover.de/de/sdm))
-+  Dr. Ahmad Sakor 
++  [Dr. Ahmad Sakor](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/scientific-data-management/mitarbeiterinnen-und-mitarbeiter/ahmad-sakor) 
 + [Dr. Ariam Rivas](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/scientific-data-management/mitarbeiterinnen-und-mitarbeiter/ariam-rivas)
 + [Dr. Sahar Vahdati](https://nimi-ai.com/sahar-vahdati/)
 + [Prof. Dr. Maria-Esther Vidal](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/scientific-data-management/mitarbeiterinnen-und-mitarbeiter/maria-esther-vidal)
