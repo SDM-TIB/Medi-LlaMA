@@ -64,20 +64,20 @@ Medi-LlaMA will be tested in:
 +  Ramón y Cajal Institute of Health Research, Spain ([IRYCIS](https://eatris.eu/institutes/instituto-ramon-y-cajal-irycis/)) 
 +  Universidad del Valle, Colombia ([UniValle](https://www.univalle.edu.co/)) 
 # The Medi-LlaMA Team 
-Leibniz University of Hannover (LUH), Germany 
+** Leibniz University of Hannover (LUH), Germany **
 +  Dr. Ahmad Sakor 
 +  Dr. Ariam Rivas 
 +  Dr. Sahar Vahdati
-+ Prof. Dr. Maria-Esther Vidal
++ [Prof. Dr. Maria-Esther Vidal](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/scientific-data-management/mitarbeiterinnen-und-mitarbeiter/maria-esther-vidal)
    
-Universidad Politécnica de Madrid (UPM), Spain
+** Universidad Politécnica de Madrid (UPM), Spain **
 + Prof. Ernestina Menasalvas
 + Prof. Victor Robles
 + Prof. Alejandro Rodriguez
    
-Ramón y Cajal Institute of Health Research (IRYCIS), Spain
+** Ramón y Cajal Institute of Health Research (IRYCIS), Spain **
 + Prof. Miguel Angel Sicilia
 +  Prof. Elena García Barriocanal
 
-   Universidad del Valle, Colombia
+**Universidad del Valle, Colombia **
 + Dr. Oswaldo Solarte  
