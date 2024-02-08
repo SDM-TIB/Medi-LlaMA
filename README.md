@@ -71,13 +71,13 @@ Medi-LlaMA will be tested in:
 + [Prof. Dr. Maria-Esther Vidal](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/scientific-data-management/mitarbeiterinnen-und-mitarbeiter/maria-esther-vidal)
    
 **Universidad Politécnica de Madrid (UPM), Spain**
-+ Prof. Ernestina Menasalvas
-+ Prof. Victor Robles
-+ Prof. Alejandro Rodriguez
++ [Prof. Ernestina Menasalvas](https://medal.ctb.upm.es/team/ernestina-menasalvas/)
++ [Prof. Victor Robles](https://medal.ctb.upm.es/team/victor-robles-forcada/)
++ [Prof. Alejandro Rodriguez](https://medal.ctb.upm.es/team/alejandro-rodriguez/)
    
 **Ramón y Cajal Institute of Health Research (IRYCIS), Spain**
-+ Prof. Miguel Angel Sicilia
-+  Prof. Elena García Barriocanal
++ [Prof. Miguel Angel Sicilia](https://scholar.google.com/citations?user=mspPvXQAAAAJ&hl=es&oi=ao)
++ [Prof. Elena García Barriocanal](https://scholar.google.com/citations?user=_VcyznEAAAAJ&hl=es&oi=ao)
 
 **Universidad del Valle, Colombia**
-+ Dr. Oswaldo Solarte  
++ [Dr. Oswaldo Solarte](https://scholar.google.com/citations?user=WkMMvTAAAAAJ&hl=es&oi=ao)  
