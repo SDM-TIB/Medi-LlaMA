@@ -64,20 +64,20 @@ Medi-LlaMA will be tested in:
 +  Ramón y Cajal Institute of Health Research, Spain ([IRYCIS](https://eatris.eu/institutes/instituto-ramon-y-cajal-irycis/)) 
 +  Universidad del Valle, Colombia ([UniValle](https://www.univalle.edu.co/)) 
 # The Medi-LlaMA Team 
-**Leibniz University of Hannover (LUH), Germany**
+**Leibniz University of Hannover (LUH), Germany** ([Scientific Data Management group at LUH](https://www.idas.uni-hannover.de/de/sdm))
 +  Dr. Ahmad Sakor 
 +  Dr. Ariam Rivas 
 +  Dr. Sahar Vahdati
 + [Prof. Dr. Maria-Esther Vidal](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/scientific-data-management/mitarbeiterinnen-und-mitarbeiter/maria-esther-vidal)
    
-**Universidad Politécnica de Madrid (UPM), Spain**
+**Universidad Politécnica de Madrid (UPM), Spain** ([Medal team at UPM](https://medal.ctb.upm.es/))
 + [Prof. Ernestina Menasalvas](https://medal.ctb.upm.es/team/ernestina-menasalvas/)
 + [Prof. Victor Robles](https://medal.ctb.upm.es/team/victor-robles-forcada/)
 + [Prof. Alejandro Rodriguez](https://medal.ctb.upm.es/team/alejandro-rodriguez/)
    
-**Ramón y Cajal Institute of Health Research (IRYCIS), Spain**
+**Ramón y Cajal Institute of Health Research (IRYCIS), Spain** ([IRYCIS](https://eatris.eu/institutes/instituto-ramon-y-cajal-irycis/)) 
 + [Prof. Miguel Angel Sicilia](https://scholar.google.com/citations?user=mspPvXQAAAAJ&hl=es&oi=ao)
 + [Prof. Elena García Barriocanal](https://scholar.google.com/citations?user=_VcyznEAAAAJ&hl=es&oi=ao)
 
-**Universidad del Valle, Colombia**
+**Universidad del Valle, Colombia** ([UniValle](https://www.univalle.edu.co/)) 
 + [Dr. Oswaldo Solarte](https://scholar.google.com/citations?user=WkMMvTAAAAAJ&hl=es&oi=ao)  
