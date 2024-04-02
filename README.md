@@ -34,9 +34,9 @@ The approach retrieves the DDIs in the input treatment from the Medi-LlaMA Knowl
 # The Medi-LlaMA Architecture
 Medi-LlaMA is a Hybrid AI System that integrates knowledge graphs, and symbolic and LlaMA models.
 +  **Named Entity Recognition** relies on LlaMA; annotated clinical data is utilized for prompt engineering.
-+  **The Medi-LlaMA Knowledge Graph (KG)** integrates medical entities extracted from clinical data (i.e., clinical records, scientific publications, clinical trials, and biomedical databases).
-+  **LlaMA Fine Tuning** is performed by traversing the Medi-LlaMA KG and the facts uncovered by symbolic reasoning and learning.
-+  **Hybrid Prompt Answering** integrates facts collected from the Medi-LlaMA KG, symbolic reasoning and learning, and the Medi-LlaMA model. The Medi-LlaMA system relies on a model selection process to decide which of these subsystems should be called. New facts uncovered by Medi-LlaMA model are materialized in the Medi-LlaMA KG; it can be edited and curated. 
++  **The Medi-LlaMA Knowledge Graph (KG)** integrates medical entities extracted from clinical data (i.e., clinical records, scientific publications, clinical trials, and biomedical databases). The KG is represented using a symbolic model (e.g., as a property graph or RDF knowledge graph) and in an n-dimensional vector space. As a result, both symbolic and sub-symbolic representations of the Medi-LlaMA KG are created.
++  **LlaMA Fine Tuning** is performed by traversing the Medi-LlaMA KG and the facts uncovered by symbolic reasoning and learning. Constrainst are validated via symbolic models (e.g., expressed in SHACL).
++  **Hybrid Prompt Answering** integrates facts collected from the Medi-LlaMA KG, represented with symbolic models and as a vector atltas, symbolic models, and the Medi-LlaMA model. The Medi-LlaMA system implements **retrieval augmented generation (RAG)** to combine the output from these subsystems should be called. New facts uncovered by Medi-LlaMA model are materialized in the Medi-LlaMA KG; it can be edited and curated. 
 
 <p align="center">
   <img src="demo/Medi-Llama.png" alt="Architecture">
