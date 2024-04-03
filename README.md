@@ -39,7 +39,7 @@ Medi-LlaMA is a Hybrid AI System that integrates knowledge graphs, and symbolic 
 +  **Hybrid Prompt Answering** integrates facts collected from the Medi-LlaMA KG, represented with symbolic models and as a vector atltas, symbolic models, and the Medi-LlaMA model. The Medi-LlaMA system implements **retrieval augmented generation (RAG)** to combine the output from these subsystems should be called. New facts uncovered by Medi-LlaMA model are materialized in the Medi-LlaMA KG; it can be edited and curated. 
 
 <p align="center">
-  <img src="demo/Medi-LlaMA.png" alt="Architecture">
+  <img src="demo/Medi-LlaMA.pdf" alt="Architecture">
 </p>
 
 # The Medi-LlaMA Timeline
