@@ -114,7 +114,6 @@ The performance of the methods implemented in Medi-LlaMA will be assessed follow
   <img src="demo/EvaluationPlan.jpg" alt="Evaluation Plan" width="800">
 </p>
 
-# The Medi-LlaMA Evaluation
 Medi-LlaMA will be tested in:
 +  Pilot programs in hospitals across Spain, Germany, and South America.
 +  Medi-LlaMA will minimize health costs, while maximizing quality of life.
@@ -126,11 +125,14 @@ Medi-LlaMA will be tested in:
 + [Dr. Ariam Rivas](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/scientific-data-management/mitarbeiterinnen-und-mitarbeiter/ariam-rivas)
 + [M.Sc. Yashrajsinh Chudasama](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/scientific-data-management/mitarbeiterinnen-und-mitarbeiter/yashrajsinh-chudasama)
 + [M.Sc. Disha Purohit](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/scientific-data-management/mitarbeiterinnen-und-mitarbeiter/disha-purohit)
++ [M.Sc. Philipp D. Rohde](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/scientific-data-management/mitarbeiterinnen-und-mitarbeiter/philipp-rohde)
++ [M.Sc. Enrique Iglesias](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/scientific-data-management/mitarbeiterinnen-und-mitarbeiter/enrique-iglesias)
 + [Prof. Dr. Maria-Esther Vidal](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/scientific-data-management/mitarbeiterinnen-und-mitarbeiter/maria-esther-vidal)
    
 **Universidad Politécnica de Madrid (UPM), Spain** ([Medal team at UPM](https://medal.ctb.upm.es/))
 + [Prof. Ernestina Menasalvas](https://medal.ctb.upm.es/team/ernestina-menasalvas/)
 + [Prof. Alejandro Rodriguez](https://medal.ctb.upm.es/team/alejandro-rodriguez/)
++ [Enrique Solera Navarro](https://www.linkedin.com/in/enrique-solera-bioinformatician/?locale=en_US)
 
 **Hospital Universitario Puerta del Hierro Majadahonda, Madrid (HUPHM), Spain** ([Team at HUPHM](https://www.esmo.org/for-patients/esmo-designated-centres-of-integrated-oncology-palliative-care/esmo-accredited-designated-centres/hospital-universitario-puerta-de-hierro))
 + [Dr. Juan Cristobal Sanchez Gonzalez](https://www.oncologiapuertadehierro.com/plantilla3/Archivos/CVs/JuanCristobalSanchez_CV.pdf)
