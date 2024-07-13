@@ -111,7 +111,7 @@ The performance of the methods implemented in Medi-LlaMA will be assessed follow
 - **User Study Feedback:** Collect feedback from clinical partners to evaluate the practical effectiveness of the fine-tuned model via metrics of agreements and disagreements.
 
 <p align="center">
-  <img src="demo/EvaluationPlan.png" alt="Evaluation Plan" width="800">
+  <img src="demo/EvaluationPlan.jpg" alt="Evaluation Plan" width="800">
 </p>
 
 # The Medi-LlaMA Evaluation
@@ -124,6 +124,8 @@ Medi-LlaMA will be tested in:
 **Leibniz University of Hannover (LUH), Germany** ([Scientific Data Management group at LUH](https://www.idas.uni-hannover.de/de/sdm))
 +  [Dr. Ahmad Sakor](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/scientific-data-management/mitarbeiterinnen-und-mitarbeiter/ahmad-sakor) 
 + [Dr. Ariam Rivas](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/scientific-data-management/mitarbeiterinnen-und-mitarbeiter/ariam-rivas)
++ [M.Sc. Yashrajsinh Chudasama](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/scientific-data-management/mitarbeiterinnen-und-mitarbeiter/yashrajsinh-chudasama)
++ [M.Sc. Disha Purohit](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/scientific-data-management/mitarbeiterinnen-und-mitarbeiter/disha-purohit)
 + [Prof. Dr. Maria-Esther Vidal](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/scientific-data-management/mitarbeiterinnen-und-mitarbeiter/maria-esther-vidal)
    
 **Universidad Politécnica de Madrid (UPM), Spain** ([Medal team at UPM](https://medal.ctb.upm.es/))
