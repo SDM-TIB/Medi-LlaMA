@@ -37,7 +37,6 @@ In contrast, Medi-LlaMA stands out by exploiting an extensive knowledge base col
 
 # Medi-LlaMA- Our Proposed Approach 
 Medi-LlaMA aims to provide clinicians with precise, personalized, and contextually relevant information, ultimately improving patient outcomes and the overall quality of healthcare.
-+ **Medi-LlaMA** integrates knowledge graphs, and symbolic and LlaMA models.
 + **The Medi-LlaMA Knowledge Graph (KG)** integrates medical entities extracted from clinical data (i.e., clinical records, scientific publications, clinical trials, and biomedical databases).
 + **Vector Space Representations** Learning embeddings through inductive learning and symbolic reasoning over the Medi-LlaMA KG, which encode medical knowledge extracted from clinical notes and scientific publications and databases.
 
