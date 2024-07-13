@@ -131,7 +131,7 @@ Medi-LlaMA will be tested in:
 + [M.Sc. Disha Purohit](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/scientific-data-management/mitarbeiterinnen-und-mitarbeiter/disha-purohit)
 + [M.Sc. Philipp D. Rohde](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/scientific-data-management/mitarbeiterinnen-und-mitarbeiter/philipp-rohde)
 + [M.Sc. Enrique Iglesias](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/scientific-data-management/mitarbeiterinnen-und-mitarbeiter/enrique-iglesias)
-+ [Gabriela Ydler](https://www.linkedin.com/in/gabriela-alessandra-ydler-bellorin-a6460b111/?originalSubdomain=de)
++ [B.A. Gabriela Ydler](https://www.linkedin.com/in/gabriela-alessandra-ydler-bellorin-a6460b111/?originalSubdomain=de)
 + [Prof. Dr. Maria-Esther Vidal](https://www.tib.eu/de/forschung-entwicklung/forschungsgruppen-und-labs/scientific-data-management/mitarbeiterinnen-und-mitarbeiter/maria-esther-vidal)
    
 **Universidad Politécnica de Madrid (UPM), Spain** ([Medal team at UPM](https://medal.ctb.upm.es/))
